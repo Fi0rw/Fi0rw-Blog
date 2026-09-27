@@ -9,16 +9,16 @@ export const sideyConfig = {
    */
   site: {
     // The main title displayed in browser tabs and search engine results
-    title: "Astro Sidey",
+    title: "Fi0rw Blog",
 
     // A short fallback summary of your site used for SEO and social share cards
-    description: "A minimal, content-focused Astro theme for personal sites.",
+    description: "IT Support | Help Desk | Estudiante de Tecnicatura en Redes Informáticas | Licenciatura en Ciberdefensa",
 
     // The production domain where your site is deployed (no trailing slash)
-    url: "https://sidey.odhyp.com",
+    url: "https://fi0rw.vercel.app",
 
     // Your name, utilized in copyright strings and author meta tags
-    author: "Odhy Pradhana",
+    author: "Tobias Fioroni",
 
     // The primary language attribute for HTML accessibility engines (e.g., "en", "id")
     locale: "en",
@@ -34,7 +34,6 @@ export const sideyConfig = {
     { label: "Home", href: "/" },
     { label: "Writings", href: "/writings" },
     { label: "About", href: "/about" },
-    { label: "RSS", href: "/rss.xml" },
   ],
 }
 
